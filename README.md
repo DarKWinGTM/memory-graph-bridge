@@ -15,12 +15,12 @@ The **Memory Graph Bridge** is a specialized integration system designed to conn
 
 ## 🔗 Ecosystem References
 
-This project serves as the connecting link between two powerful memory systems:
+This project serves as the connecting link between two powerful memory systems within the **DarKWinGTM Node Network**:
 
-| System | Role | Function |
-|--------|------|----------|
-| **[Claude-Mem](https://github.com/DarKWinGTM/claude-mem)** | 🧠 **Short/Long-term Memory** | Logs observations, decisions, and task history in a linear, time-based format. |
-| **[Memora](https://github.com/DarKWinGTM/memora)** | 🕸️ **Knowledge Graph** | Provides graph-based knowledge representation, typed relationships, and visualization capabilities. |
+| System | Role | Function | Status |
+|--------|------|----------|--------|
+| **[Claude-Mem](https://github.com/DarKWinGTM/claude-mem)** | 🧠 **Short/Long-term Memory** | Logs observations, decisions, and task history in a linear, time-based format. | ![Stars](https://img.shields.io/github/stars/DarKWinGTM/claude-mem?style=social) |
+| **[Memora](https://github.com/DarKWinGTM/memora)** | 🕸️ **Knowledge Graph** | Provides graph-based knowledge representation, typed relationships, and visualization capabilities. | ![Stars](https://img.shields.io/github/stars/DarKWinGTM/memora?style=social) |
 
 ## 💡 Core Concepts
 
@@ -83,6 +83,37 @@ memory-graph-bridge/
     ```
     /sync-memora
     ```
+
+## 👥 Contributors
+
+Thanks to the following people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DarKWinGTM">
+        <img src="https://github.com/DarKWinGTM.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>DarKWinGTM</b></sub>
+      </a>
+      <br />
+      <a href="#maintenance" title="Maintenance">🚧</a>
+      <a href="#content" title="Content">🖋️</a>
+      <a href="#code" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://anthropic.com">
+        <img src="https://avatars.githubusercontent.com/u/79165158?s=200&v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>Claude</b></sub>
+      </a>
+      <br />
+      <a href="#design" title="Design">🎨</a>
+      <a href="#code" title="Code">💻</a>
+      <a href="#doc" title="Documentation">📖</a>
+    </td>
+  </tr>
+</table>
 
 ## 📄 License
 
