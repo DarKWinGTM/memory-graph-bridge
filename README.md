@@ -102,8 +102,18 @@ Thanks to the following people who have contributed to this project:
       <a href="#code" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="https://anthropic.com">
+      <a href="https://github.com/DarKWinGTM/memora">
         <img src="https://avatars.githubusercontent.com/u/79165158?s=200&v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>Memora</b></sub>
+      </a>
+      <br />
+      <a href="#tool" title="Tool">🛠️</a>
+      <a href="#integration" title="Integration">🔌</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/claude">
+        <img src="https://avatars.githubusercontent.com/u/81847?v=4" width="100px;" alt=""/>
         <br />
         <sub><b>Claude</b></sub>
       </a>
